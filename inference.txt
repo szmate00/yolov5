@@ -1,0 +1,2 @@
+python detect.py --weights best.pt --conf 0.5 --source C:\FPL\projects\hotspot_project\src\yolov5\hotspot\*.png
+python detect.py --weights best.pt --source C:\FPL\projects\hotspot_project\src\yolov5\57\*.png
